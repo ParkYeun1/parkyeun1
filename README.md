@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**ParkYeun1/parkyeun1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👩🏻‍🏫
 
-Here are some ideas to get you started:
+🎓 I'm currently a student pursuing an M.S. in **Visualization** at **Texas A&M University**.  
+🏃 Currently working on a **marker-less motion capture** project.  
+✨ I’m an enthusiast in **Computer Graphics🫖** and **Computer Vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack ⚙️
+- 💻 Python | C/C++ | JavaScript | C# | Lua | Vex
+- 📚 OpenGL | OpenCV | WebGL | CUDA | PyQT | glsl/hlsl  
+- 🔧 Visual Studio Code | Git | Perforce | Unreal Engine | Unity | Houdini
