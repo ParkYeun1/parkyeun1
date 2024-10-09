@@ -1,5 +1,5 @@
 
-## About Me 👩🏻‍🏫
+## Hello! 👋 Welcome to my Graphics Stock House. Here, you'll find my projects in the world of computer graphics and visualization.
 
 🎓 I'm currently a student pursuing an M.S. in **Visualization** at **Texas A&M University**.  
 🏃 Currently working on a **marker-less motion capture** project.  
